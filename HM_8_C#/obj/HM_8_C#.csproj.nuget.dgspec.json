@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\УчёбаGB\\HW_C\\HW_C-\\HM_8_C#\\HM_8_C#.csproj": {}
+    "C:\\Users\\UZAO\\Desktop\\GB\\HW_C#\\HW_C-\\HM_8_C#\\HM_8_C#.csproj": {}
   },
   "projects": {
-    "D:\\УчёбаGB\\HW_C\\HW_C-\\HM_8_C#\\HM_8_C#.csproj": {
+    "C:\\Users\\UZAO\\Desktop\\GB\\HW_C#\\HW_C-\\HM_8_C#\\HM_8_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\УчёбаGB\\HW_C\\HW_C-\\HM_8_C#\\HM_8_C#.csproj",
+        "projectUniqueName": "C:\\Users\\UZAO\\Desktop\\GB\\HW_C#\\HW_C-\\HM_8_C#\\HM_8_C#.csproj",
         "projectName": "HM_8_C#",
-        "projectPath": "D:\\УчёбаGB\\HW_C\\HW_C-\\HM_8_C#\\HM_8_C#.csproj",
-        "packagesPath": "C:\\Users\\НПГ\\.nuget\\packages\\",
-        "outputPath": "D:\\УчёбаGB\\HW_C\\HW_C-\\HM_8_C#\\obj\\",
+        "projectPath": "C:\\Users\\UZAO\\Desktop\\GB\\HW_C#\\HW_C-\\HM_8_C#\\HM_8_C#.csproj",
+        "packagesPath": "C:\\Users\\UZAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UZAO\\Desktop\\GB\\HW_C#\\HW_C-\\HM_8_C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\НПГ\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\UZAO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
