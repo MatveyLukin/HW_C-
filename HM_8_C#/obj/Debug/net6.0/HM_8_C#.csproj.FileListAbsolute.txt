@@ -1,0 +1,15 @@
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\bin\Debug\net6.0\HM_8_C#.exe
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\bin\Debug\net6.0\HM_8_C#.deps.json
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\bin\Debug\net6.0\HM_8_C#.runtimeconfig.json
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\bin\Debug\net6.0\HM_8_C#.dll
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\bin\Debug\net6.0\HM_8_C#.pdb
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\HM_8_C#.csproj.AssemblyReference.cache
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\HM_8_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\HM_8_C#.AssemblyInfoInputs.cache
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\HM_8_C#.AssemblyInfo.cs
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\HM_8_C#.csproj.CoreCompileInputs.cache
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\HM_8_C#.dll
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\refint\HM_8_C#.dll
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\HM_8_C#.pdb
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\HM_8_C#.genruntimeconfig.cache
+D:\УчёбаGB\HW_C\HW_C-\HM_8_C#\obj\Debug\net6.0\ref\HM_8_C#.dll
