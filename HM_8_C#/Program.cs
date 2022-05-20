@@ -76,24 +76,30 @@
 
 int[,] CreateRandomMatrix(int row, int column)
 {
-    int[,] matrix = new int[row,column];
+    int[,] matrix = new int[row, column];
 
     for (int i = 0; i < row; i++)
         for (int j = 0; j < column; j++)
-            matrix[i,j] = new Random().Next(1,10);
+            matrix[i, j] = new Random().Next(1, 10);
 
     return matrix;
 }
 
 void PrintMatrix(int[,] matr)
 {
+    Console.WriteLine();
     for (int i = 0; i < matr.GetLength(0); i++)
     {
+
         for (int j = 0; j < matr.GetLength(1); j++)
-            Console.Write($"{matr[i,j]} ");
+        {
+
+            Console.Write($"{matr[i, j]} ");
+        }
         Console.WriteLine();
+
     }
-    Console.WriteLine();    
+    Console.WriteLine();
 }
 void MinSumString(int[,] matr)
 {
@@ -101,37 +107,40 @@ void MinSumString(int[,] matr)
         minValue = 0,
         minIndex = 0;
     for (int j = 0; j < matr.GetLength(1); j++)
-            minValue += matr[0,j];
-            
-    for (int i = 1; i < matr.GetLength(0); i++)
+        minValue += matr[0, j];
+
+    for (int i = 0; i < matr.GetLength(0); i++)
     {
-        for (int j = 0; j < matr.GetLength(1); j++){
-            sumString += matr[i,j];
+        for (int j = 0; j < matr.GetLength(1); j++)
+        {
+            sumString += matr[i, j];
         }
         Console.WriteLine(sumString);
-            
-        if(sumString < minValue) 
+
+        if (sumString < minValue)
         {
             minValue = sumString;
             minIndex = i;
         }
-        
-        sumString = 0;  
-    
+
+        sumString = 0;
+
     }
-    Console.WriteLine("Строка с наименьшей суммой элементов имеет номер => " + (minIndex+1));
+    Console.WriteLine();
+    Console.WriteLine("Строка с наименьшей суммой элементов имеет номер => " + (minIndex + 1));
     Console.WriteLine();
 }
 int q = 3;
 int l = 3; // dimension of rectangular array
-if(q != l){
+if (q != l)
+{
     Console.WriteLine("Введен неравномерный массив");
 }
 else
 {
-int[,] matrix2 = CreateRandomMatrix(row: q, column: l);
-PrintMatrix(matrix2);
-MinSumString(matrix2);
+    int[,] matrix2 = CreateRandomMatrix(row: q, column: l);
+    PrintMatrix(matrix2);
+    MinSumString(matrix2);
 }
 
 
